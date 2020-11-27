@@ -1,5 +1,5 @@
 a = int(input("Enter your number.: "))
-if a==1 or a==2 or a==3:
+if  a==2 or a==3:
     print("PRIME NUMBER")
 
 for num in range(2,a):
